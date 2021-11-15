@@ -6,7 +6,7 @@ Mere protocols are loosed upon the world,
 The blood-dimmed tide is loosed, and everywhere   
 The consensus of innocence is drowned;
 The best lack all commits, while the worst   
-Are full of passionate DAOs to sell you on.
+Are full of passionate NFTs to sell you on.
 
 Surely some revelation is at hand;
 Surely the Third Web is at hand.   
@@ -20,6 +20,6 @@ Reel shadows of the hungry futurist grifters.
 The tether drops again; but now I know   
 That twenty one centuries of stony sleep
 Were vexed to nightmare by a forking cradle,   
-And what rough NFT, its hour come round at last,   
+And what rough DAO, its hour come round at last,   
 Slouches towards Burning Man to be born?
 ```
